@@ -1,0 +1,3 @@
+:ircserv.localhost 464 * :Password incorrect
+:ircserv.localhost 451 * :You have not registered
+:ircserv.localhost 451 * :You have not registered
