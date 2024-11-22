@@ -1,4 +1,4 @@
-:ircserv.localhost NOTICE testuser :
+:ircserv NOTICE testuser :
 ────────────────────────────────────────────────────────────────────
 ────────────────────────────────────────────────────────────────────
 ─────── d 888 ─ ,8"88e ─── 888 ── 888 88e ─── e88'Y88 ──────────────
@@ -9,7 +9,7 @@
 ────────────────────────────────────────────────────────  > ^ < ────
 ───────────────── powered by faboussa, mbernard & yusengok with ♥ ──
 
-:ircserv.localhost 001 testuser :Welcome to the 42IRC Network, testuser!testuser@localhost
-:ircserv.localhost 002 testuser :Your host is ircserv.localhost, running version 1.0.0
-:ircserv.localhost 004 testuser :ircserv.localhost 1.0.0  itkl
-:ircserv.localhost 005 testuser :NETWORK=42IRC CHANLIMIT=20 CHANNELLEN=200 MAXTARGETS=4 NICKLEN=9 HOSTLEN=63 KICKLEN=255 TOPICLEN=307 USERLEN=10 CASEMAPPING=ascii CHANMODES=i,t,k,l CHANTYPES=# PREFIX=(o)@ MODES=4 USERMODES= STATUSMSG=@ :are supported by this server
+:ircserv 001 testuser :Welcome to the 42IRC Network, testuser!testuser@localhost
+:ircserv 002 testuser :Your host is ircserv, running version 1.0.0
+:ircserv 004 testuser :ircserv 1.0.0  itkl
+:ircserv 005 testuser :NETWORK=42IRC CHANLIMIT=20 CHANNELLEN=200 MAXTARGETS=4 NICKLEN=9 HOSTLEN=63 KICKLEN=255 TOPICLEN=307 USERLEN=10 CASEMAPPING=ascii CHANMODES=i,t,k,l CHANTYPES=# PREFIX=(o)@ MODES=4 USERMODES= STATUSMSG=@ :are supported by this server

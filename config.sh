@@ -6,7 +6,7 @@ NC='\033[0m'
 # Server information
 SERVER="127.0.0.1"
 PORT="6667"
-SERVER_NAME="ircserv.localhost"
+SERVER_NAME="ircserv"
 
 # Test data
 VALID_PASS="pass"
