@@ -1,6 +1,6 @@
 # ft_irc-tester
 
-Tester for basic usage testing of [ft_irc](https://github.com/faboussard/42-irc) project.
+Tester for basic usage testing of our [ft_irc](https://github.com/faboussard/42-irc) project.
 
 ## Usage
 1. Start the [ft_irc](https://github.com/faboussard/42-irc) program.
